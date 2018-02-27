@@ -1,0 +1,45 @@
+.container {
+    flex-direction: column; 
+    display: flex; 
+    
+}
+
+body {
+  background-image: url("../Responsive-Portfolio/dust_scratches.png");
+  
+}
+
+
+h1 {
+  font-family: cursive; 
+  font-size: 30px; 
+  text-align: center; 
+  color: dimgray; 
+}
+
+.fullname {
+  width: 40%; 
+  margin-left: 0; 
+}
+
+.emailaddress {
+  width: 40%; 
+  margin-left: 0; 
+}
+
+.yourmessage {
+  width: 60%; 
+  height: 100px;
+  margin-left: 0;  
+  
+
+}
+
+#fullname {
+  height: 15px;
+}
+
+#emailaddress {
+  height: 15px;
+}
+
